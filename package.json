@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyNCH/blockchain-lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyNCH/blockchain-lottery/issues"
+  },
+  "homepage": "https://github.com/jeremyNCH/blockchain-lottery#readme",
+  "dependencies": {
+    "ganache-cli": "^6.4.3",
+    "mocha": "^6.1.4",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.55"
+  }
+}
