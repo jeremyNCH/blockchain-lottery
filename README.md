@@ -7,17 +7,17 @@
 
 # set up
 
-- npm install
-- node compile.js
+- `npm install`
+- `node compile.js`
 
 # To test
 
-- npm run test
+- `npm run test`
 
 ## If error: cannot find module ../utils,
 
 - remove package-lock.json
-- npm cache clean --force
-- npm install
+- `npm cache clean --force`
+- `npm install`
 
-### If error persists, reinstall node 10.15 LTS and retry the above commands
+### If error persists, reinstall `node 10.15 LTS` and retry the above commands
