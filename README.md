@@ -10,6 +10,10 @@
 - `npm install`
 - `node compile.js`
 
+# To deploy
+
+- `node deploy.js`
+
 # To test
 
 - `npm run test`
